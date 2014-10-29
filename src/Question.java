@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * @author ethan duprey
  * @author jackson feist
- * @author jordan michael morenstein 100721333
+ * @author jordan michael morenstein 
  *
  */
 public class Question {
