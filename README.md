@@ -5,6 +5,6 @@ COMP2130 Java Group Project
 
 members:
 
-ethan duprey
-jackson feist
+ethan duprey \n
+jackson feist \n
 me
